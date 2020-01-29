@@ -1,0 +1,11 @@
+# virtualenv env
+# env\Scripts\activate.bat
+
+# pip install -r requirements.txt
+
+# settings.json
+# "python.linting.pylintArgs": ["--load-plugins", "pylint-flask"]
+
+# git init
+# git add .
+# git commit -m "First commit"
